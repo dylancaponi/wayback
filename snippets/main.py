@@ -1,3 +1,5 @@
+# Snippet to get a screenshot of URL and add URL and datetime string to image hash.
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
