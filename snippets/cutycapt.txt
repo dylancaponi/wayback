@@ -1,0 +1,1 @@
+docker run -v /tmp:/tmp m4n4m0n14/cutycapt --url=http://yahoo.com --out-format=png --out=/tmp/output.png
